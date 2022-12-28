@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "NODEJS",
+    "password": "NODEJS",
+    "database": "ORCL",
+    "host": "localhost",
+    "dialect": "oracle"
+  },
+  "test": {
+    "username": "NODEJS",
+    "password": "NODEJS",
+    "database": "ORCL",
+    "host": "localhost",
+    "dialect": "oracle"
+  },
+  "production": {
+    "username": "NODEJS",
+    "password": "NODEJS",
+    "database": "ORCL",
+    "host": "localhost",
+    "dialect": "oracle"
+  }
+}
